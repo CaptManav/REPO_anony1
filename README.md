@@ -95,7 +95,8 @@ Ranking-based metrics:
 ---
 
 ## Project Structure
----
+
+```
 gnn-recommender/
 │
 ├── data/
@@ -108,10 +109,8 @@ gnn-recommender/
 ├── experiments/
 ├── docs/
 └── main.py
----
+```
 
-
----
 
 ## Scalability Considerations
 
